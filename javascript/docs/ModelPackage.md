@@ -1,0 +1,46 @@
+# PowermeterApi.ModelPackage
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **Number** |  | [optional] [readonly] 
+**name** | **String** |  | [optional] [readonly] 
+**descr** | **String** |  | [optional] [readonly] 
+**editable** | **Boolean** |  | [optional] [readonly] 
+**currentVersion** | **Number** |  | [optional] [readonly] 
+**version** | [**PackageVersion**](PackageVersion.md) |  | [optional] 
+**width** | **Number** |  | [optional] 
+**height** | **Number** |  | [optional] 
+**dieWidthMin** | **Number** |  | [optional] 
+**dieWidthMax** | **Number** |  | [optional] 
+**dieHeightMin** | **Number** |  | [optional] 
+**dieHeightMax** | **Number** |  | [optional] 
+**heatspreaderSamesize** | **Boolean** |  | [optional] 
+**heatspreaderWidth** | **Number** |  | [optional] 
+**heatspreaderHeight** | **Number** |  | [optional] 
+**heatspreaderThickness** | **Number** |  | [optional] 
+**heatspreaderConductivity** | **Number** |  | [optional] 
+**heatspreaderHeatcapacity** | **Number** |  | [optional] 
+**timThickness** | **Number** |  | [optional] 
+**timConductivity** | **Number** |  | [optional] 
+**timHeatcapacity** | **Number** |  | [optional] 
+**underfillThickness** | **Number** |  | [optional] 
+**c4Width** | **Number** |  | [optional] 
+**c4Number** | **Number** |  | [optional] 
+**c4Conductivity** | **Number** |  | [optional] 
+**c4Heatcapacity** | **Number** |  | [optional] 
+**substrateSamesize** | **Boolean** |  | [optional] 
+**substrateWidth** | **Number** |  | [optional] 
+**substrateHeight** | **Number** |  | [optional] 
+**substrateThickness** | **Number** |  | [optional] 
+**substrateConductivity** | **Number** |  | [optional] 
+**substrateHeatcapacity** | **Number** |  | [optional] 
+**solderballSamesize** | **Boolean** |  | [optional] 
+**solderballWidth** | **Number** |  | [optional] 
+**solderballHeight** | **Number** |  | [optional] 
+**solderballThickness** | **Number** |  | [optional] 
+**solderballConductivity** | **Number** |  | [optional] 
+**solderballHeatcapacity** | **Number** |  | [optional] 
+
+
